@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseAuthDemo</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+</resources>

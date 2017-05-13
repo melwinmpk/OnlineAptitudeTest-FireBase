@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AddApty</string>
+    <array name="answers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </array>
+
+    <array name="type">
+        <item>NUMIRICAL</item>
+        <item>VERBAL</item>
+        <item>NONVERBAL</item>
+        <item>MECHANICAL</item>
+    </array>
+    <string name="title_activity_list_q">ListQ</string>
+</resources>
