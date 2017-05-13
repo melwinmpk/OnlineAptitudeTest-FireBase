@@ -1,5 +1,8 @@
-# OnlineAptituteTest-FireBase-
-Online Aptitute Test
+# OnlineAptitudeTest-FireBase
+Online Aptitude Test
+
 Runs on AndroidStudio
-Addapty can add,list/view  the questions!!!!
-FirebaseAuthDemo can signup/signin the user and take test
+
+Addapty can add, list/view the questions!!!!
+
+FirebaseAuthDemo can signup /sign-in the user and take test
