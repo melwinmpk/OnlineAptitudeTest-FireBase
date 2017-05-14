@@ -1,4 +1,4 @@
-# OnlineAptitudeTest-FireBase# OnlineAptitudeTest-FireBase
+# OnlineAptitudeTest-FireBase
 
 Online Aptitude Test
 
